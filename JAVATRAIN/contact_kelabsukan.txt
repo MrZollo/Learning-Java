@@ -1,0 +1,4 @@
+Messi, Lionel Andrés, Lionel Andrés Messi, Pro Football Player, 012-1212121, messi@gmail.com.my
+Aveiro, Cristiano Ronaldo, Cristiano Ronaldo Aveiro, Pro Football Player, 019-1232145, ronaldo@gmail.com.my
+Lee, Chong Wei, Lee Chong Wei, Pro Badminton Player, 012-2482482, chongwei@gmail.com.my
+

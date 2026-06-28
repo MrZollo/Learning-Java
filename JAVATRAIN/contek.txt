@@ -1,0 +1,4 @@
+pessi, Lionel Andrés, Lionel Andrés Messi, Pro Football Player, 012-1212121, messi@gmail.com.my
+zolo, zollo zealous, zolozo vamos, student, 0123456789, zolo@gmail.com.my
+salahudin, jamal, jamal salahudin, student, 011223344, jamal@gmail.com.my
+Kemal, danis, Kemal danis, 012344455, student, ayahnda@gmail.com.my
